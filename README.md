@@ -1,9 +1,9 @@
-#git init
+git init
 
-##git add README.md
+git add README.md
 
-##git commit -m "first commit"
+git commit -m "first commit"
 
-##git remote add origin https://github.com/horizonyu/Log.git
+git remote add origin https://github.com/horizonyu/Log.git
 
-##git push -u origin master
+git push -u origin master
